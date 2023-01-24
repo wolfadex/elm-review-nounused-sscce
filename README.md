@@ -1,6 +1,7 @@
-SSCCEE for <insert issue #>
+SSCCEE for https://github.com/jfmengels/elm-review-unused/issues/75
 
 To reproduce
+
 1. Clone this repo
 1. Run `npm install`
 1. Run `npm run review`
